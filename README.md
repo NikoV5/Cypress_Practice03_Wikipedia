@@ -1,5 +1,7 @@
 # Prerequisites
-After cloning the repository, you need to install Node Package Manager (NPM) and Cypress within the framework CLI
+After cloning the repository, you need to install Node Package Manager (NPM), Cypress and cypress-real-events within the framework CLI
+
+[NPM Link to cypress-real-events](https://www.npmjs.com/package/cypress-real-events)
 
 ## Installing Node Package Manager within framework CLI
 
